@@ -1,5 +1,3 @@
-# LinnLattCho
-
 # 👋 Hello, I'm Linn Latt Cho
 
 🚀 **Front-End Developer** | 🌐 React & TypeScript/JavaScript Enthusiast
